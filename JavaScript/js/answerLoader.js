@@ -7,5 +7,6 @@ $(document).ready(function() {
 	$("#euler_2").html(euler_2());
 	$("#euler_3").html(euler_3());
 	$("#euler_4").html(euler_4());
+	$("#euler_5").html(euler_5());
 });
 
